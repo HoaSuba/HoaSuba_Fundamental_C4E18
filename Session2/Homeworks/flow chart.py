@@ -1,0 +1,1 @@
+Theo mình hiểu flow chart là biểu diễn bằng hình ảnh dòng dạy của code.
